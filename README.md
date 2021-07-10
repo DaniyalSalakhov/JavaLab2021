@@ -1,1 +1,2 @@
-Task 2 for summer practice for JavaLab2021
+Summer practice for JavaLab2021,
+Task 2.
